@@ -1,4 +1,4 @@
-package com.movie.githubuseapi;
+package com.api.githubuseapi;
 
 import android.os.Bundle;
 import android.util.Log;

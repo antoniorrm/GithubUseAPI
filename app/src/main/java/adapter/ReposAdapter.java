@@ -9,7 +9,7 @@ import android.widget.TextView;
 
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.movie.githubuseapi.R;
+import com.api.githubuseapi.R;
 
 import java.util.List;
 
